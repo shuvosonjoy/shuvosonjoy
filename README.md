@@ -1,12 +1,7 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Sonjoy Sutradhar Shuvo</h1>
 <h3 align="center">A passionate competitive programmer & flutter developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvosonjoy&label=Profile%20views&color=0e75b6&style=flat" alt="shuvosonjoy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuvosonjoy" alt="shuvosonjoy" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
