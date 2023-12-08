@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonjoy Sutradhar Shuvo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvosonjoy&label=Profile%20views&color=0e75b6&style=flat" alt="shuvosonjoy" /> </p>
+img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif)](https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif)"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
